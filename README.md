@@ -9,20 +9,17 @@ This series is part of the Magnetosphere Online Seminar Series (MOSS) python tut
 These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group.  
 See their extensive python course materials here:  https://github.com/astg606/py_courses
 
-
-
-### MOSS Tutorial Series Schedule
-
-
 To start, you can take the <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 
 A score of 80% or higher means you may want to skip the "beginner" course material.
 
 
+### MOSS Tutorial Series Schedule
+
 
 | Date | Lecture Topic | Link |  |
 |------|---------------|------------------|----------|
-| 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://docs.google.com/presentation/d/1HjcLyVRrXruvjSSO9GyYlMYJaYcp8nxqXWyXVadX9cA/edit?usp=sharing) |  |
+| 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharinghttps://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharing) |  |
 | 28 February 2022 | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/data_types/python_data_types.ipynb) |  |
 | 25 March 2022 | **Topics TBD**  |  |  |
 | 29 April 2022 | **Topics TBD**  |  |  |
@@ -30,7 +27,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 
 ### Feedback and suggestions
 
-Future topics for the tutorials are still being determined.  Please [let us know what you'd like to see in our feedback form,](https://forms.gle/2ehrmZsmuw9fvoYp8)
+Future topics for the tutorials are still being determined.  Please [let us know what you'd like to see in our feedback form.](https://forms.gle/2ehrmZsmuw9fvoYp8)
 
 ### Other Resource Materials
 
