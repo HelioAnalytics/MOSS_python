@@ -25,6 +25,9 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | 29 April 2022 | **Topics TBD (see below)**  |  |  |
 | 27 May 2022 | **Topics TBD (see below)**  |  |  |
 
+Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visualization; Intro to Machine Learning with Python*
+
+
 ### Feedback and suggestions
 
 Future topics for the tutorials are still being determined.  Please [let us know what you'd like to see in our feedback form.](https://forms.gle/2ehrmZsmuw9fvoYp8)
