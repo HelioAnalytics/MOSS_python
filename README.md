@@ -4,7 +4,7 @@ Brought to you by:
 
  ![CfHA](images/cfha_logo.png)  ![NCCS](images/nccs_logo.png) 
 
-This series of tutorials is part of the Magnetosphere Online Seminar Series (MOSS). Python tutorials occur on the last (non-holiday) Monday of the month at 12pm ET.  
+This series of tutorials is part of the Magnetosphere Online Seminar Series (MOSS). The seminars are held every Monday at 12pm ET.  
 
 These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group.  
 See their extensive python course materials here:  https://github.com/astg606/py_courses
