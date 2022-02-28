@@ -42,8 +42,6 @@ a list of useful packages, general discussion, and advice.
 that explicitly show the reader how to use machine learning, statistics, and data mining techniques on various kinds of 
 heliophysics data sets to reproduce published results.
 
-- Michael Kirk’s tutorials (general + Sunpy): https://github.com/MSKirk/tutorials
-
 - Courses taught at NASA GSFC Heliophysics Division:  https://github.com/helio670/agenda
 
 
