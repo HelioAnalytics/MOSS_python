@@ -21,8 +21,8 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 |------|---------------|------------------|----------|
 | 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharinghttps://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharing) |  |
 | 28 February 2022 | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7zlCr-mAYtkZbnFBMWySOTNevE71iK9) |  |
-| 21 March 2022 | **NumPy, data types, and basic display of data**  |  |  |
-| 11 April 2022 | **Topics TBD (see below)**  |  |  |
+| 28 March 2022 | **How do I get to my data?**  |  |  |
+| 11 April 2022 | **basic data manipulation and display**  |  |  |
 | 16 May 2022 | **Topics TBD (see below)**  |  |  |
 
 Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visualization; Intro to Machine Learning with Python*
