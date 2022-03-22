@@ -32,7 +32,7 @@ Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visuali
 
 Future topics for the tutorials are still being determined.  Please [let us know what you'd like to see in our feedback form.](https://forms.gle/2ehrmZsmuw9fvoYp8)
 
-### Other Heliophysics Python Resource Materials
+## Other Heliophysics Python Resource Materials
 
 - [Python in Heliophysics Community](https://heliopython.org) (PyHC):  Promoting and facilitating the use and development of Python for Heliophysics.
 PyHC is a community knowledge base for performing heliophysics research in Python, aiming to provide a variety of tutorials, resources, 
@@ -52,7 +52,7 @@ heliophysics data sets to reproduce published results.
     - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/virtual_courses
 
 
-## General Python Resource Materials
+## General Python Resources
 
 ### Books and texts 
 Two excellent beginner books (both are available online under public license but you can support the developers by purchasing the books): 
