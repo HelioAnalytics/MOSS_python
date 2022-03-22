@@ -24,7 +24,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | 28 March 2022 | **How do I get to my data?**  |  |  |
 | 11 April 2022 | **Basic data manipulation and display**  |  |  |
 | 16 May 2022 | **Topics TBD (see below)**  |  |  |
-| | Glossary of python terms | [![Open In Colab](https://colab.research.google.com/drive/14JQePZdbU_M8jGVYqSe7bMRUTQQd3VE9?usp=sharing)||
+| | Glossary of python terms | [![Open In Colab](https://colab.research.google.com/drive/14JQePZdbU_M8jGVYqSe7bMRUTQQd3VE9?usp=sharing)]
 
 Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visualization; Intro to Machine Learning with Python*
 
