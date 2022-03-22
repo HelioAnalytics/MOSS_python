@@ -7,7 +7,7 @@ Brought to you by:
 This series of tutorials is part of the Magnetosphere Online Seminar Series (MOSS). The seminars are held every Monday at 12pm ET.  
 
 These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group.  
-See their extensive python course materials here:  https://github.com/astg606/py_courses
+See their extensive python course materials here:    https://github.com/astg606/py_courses/tree/master/modules
 
 To start, you can take the <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 
