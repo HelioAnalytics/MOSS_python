@@ -44,4 +44,22 @@ heliophysics data sets to reproduce published results.
 
 - Courses taught at NASA GSFC Heliophysics Division:  https://github.com/helio670/agenda
 
+- Michael Kirk’s tutorials (general + Sunpy): https://github.com/MSKirk/tutorials
+
+- Goddard ASTG Python courses (available to Helio community):  
+    - Python placement test (if you score >80% you may want to skip the beginner courses):  https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform
+    - Beginner Python: https://github.com/astg606/py_courses/tree/master/beginner_python
+    - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/virtual_courses
+
+
+## General Python Resource Materials
+
+### Books and texts 
+Two excellent beginner books (both are available online under public license but you can support the developers by purchasing the books): 
+- "Problem Solving with Python" by Peter D. Kazarinoff https://problemsolvingwithpython.com/
+- "The Python Data Science Handbook" by Jake VanderPlas https://jakevdp.github.io/PythonDataScienceHandbook/ 
+
+### Online articles 
+- "Towards Data Science" has many articles for beginners to advanced levels on coding and development:  https://medium.com/towards-data-science/
+- "KD Nuggets" was started by a space scientist turned data scientist (Kirk Borne). A great way to keep up on what's happening in data science:  https://www.kdnuggets.com/ 
 
