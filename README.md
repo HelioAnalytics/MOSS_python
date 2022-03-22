@@ -50,7 +50,7 @@ heliophysics data sets to reproduce published results.
 - Goddard ASTG Python courses (available to Helio community):  
     - Python placement test (if you score >80% you may want to skip the beginner courses):  https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform
     - Beginner Python: https://github.com/astg606/py_courses/tree/master/beginner_python
-    - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/virtual_courses
+    - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/modules
 
 
 ## General Python Resources
