@@ -24,7 +24,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | 28 March 2022 | **How do I get to my data?**  |  |  |
 | 11 April 2022 | **Basic data manipulation and display**  |  |  |
 | 16 May 2022 | **Topics TBD (see below)**  |  |  |
-| | Glossary of python terms | [Link](Course Materials/MOSS_Python_glossary.ipynb)||
+| | Glossary of python terms | [Link](https://github.com/HelioAnalytics/MOSS_python/blob/master/Course%20Materials/MOSS_Python_glossary.ipynb)||
 
 Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visualization; Intro to Machine Learning with Python*
 
