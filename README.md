@@ -35,6 +35,11 @@ Future topics for the tutorials are still being determined.  Please [let us know
 
 ## Other Heliophysics Python Resource Materials
 
+- Goddard ASTG Python courses (available to Helio community):  
+    - Python placement test (if you score >80% you may want to skip the beginner courses):  https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform
+    - Beginner Python: https://github.com/astg606/py_courses/tree/master/beginner_python
+    - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/modules
+
 - [Python in Heliophysics Community](https://heliopython.org) (PyHC):  Promoting and facilitating the use and development of Python for Heliophysics.
 PyHC is a community knowledge base for performing heliophysics research in Python, aiming to provide a variety of tutorials, resources, 
 a list of useful packages, general discussion, and advice.
@@ -47,10 +52,6 @@ heliophysics data sets to reproduce published results.
 
 - Michael Kirk’s tutorials (general + Sunpy): https://github.com/MSKirk/tutorials
 
-- Goddard ASTG Python courses (available to Helio community):  
-    - Python placement test (if you score >80% you may want to skip the beginner courses):  https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform
-    - Beginner Python: https://github.com/astg606/py_courses/tree/master/beginner_python
-    - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/modules
 
 
 ## General Python Resources
