@@ -21,7 +21,8 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 |------|---------------|------------------|----------|
 | 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharinghttps://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharing) |  |
 | 28 February 2022 | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7zlCr-mAYtkZbnFBMWySOTNevE71iK9) |  |
-| 28 March 2022 | **Basic Data Principles**  | Coming Soon |  |
+| 28 March 2022 | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN)![image](https://user-images.githubusercontent.com/39564019/160423956-9e84c118-b8f3-4373-82f2-6d7fce5bd2c6.png)
+ |  |
 | 11 April 2022 | **Basic data manipulation and display**  |  |  |
 | 16 May 2022 | **Topics TBD (see below)**  |  |  |
 | | Glossary of python terms | [Link](https://github.com/HelioAnalytics/MOSS_python/blob/master/Course%20Materials/MOSS_Python_glossary.ipynb)||
