@@ -23,7 +23,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | 28 February 2022 | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7zlCr-mAYtkZbnFBMWySOTNevE71iK9) |  |
 | 28 March 2022 | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN) |  |
 | 11 April 2022 | **Control Flow**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13vLh2Vun8zMrxQkfUpWAB9vUfKRMTrLl?usp=sharing) |  |
-| 16 May 2022 | **Numpy**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1xBSNug29CHYVac_UoADbiJVHO7X2K58q/view?usp=sharing) |  |
+| 16 May 2022 | **Numpy**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  |
 | | Glossary of python terms | [Link](https://github.com/HelioAnalytics/MOSS_python/blob/master/Course%20Materials/MOSS_Python_glossary.ipynb)||
 
 Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visualization; Intro to Machine Learning with Python*
