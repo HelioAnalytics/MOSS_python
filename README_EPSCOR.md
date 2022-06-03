@@ -1,10 +1,10 @@
-#  Magnetosphere Online Seminar Series Tutorials
+#  EPSCOR Hack Week Python Tutorials 
 
 Brought to you by: 
 
  ![CfHA](images/cfha_logo.png)  ![NCCS](images/nccs_logo.png) 
 
-This series of tutorials is part of the Magnetosphere Online Seminar Series (MOSS). The seminars are held every Monday at 12pm ET.  
+This series of tutorials is part of the 2022 EPSCOR Hack Week (<a href="https://www.nasawvepscor.org/hack-week/">https://www.nasawvepscor.org/hack-week/</a>) held June 12-17, 2022 on the West Virginia University campus in Morgantown, WV.
 
 These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group.  
 See their extensive python course materials here:    https://github.com/astg606/py_courses/tree/master/modules
@@ -14,16 +14,16 @@ To start, you can take the <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python 
 A score of 80% or higher means you may want to skip the "beginner" course material.
 
 
-### MOSS Tutorial Series Schedule
+### EPSCOR Hack Week Python Tutorial Schedule
 
 
-| Date | Lecture Topic | Link |  |
+| Session | Lecture Topic | Link |  |
 |------|---------------|------------------|----------|
-| 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharinghttps://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharing) |  |
-| 28 February 2022 | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7zlCr-mAYtkZbnFBMWySOTNevE71iK9) |  |
-| 28 March 2022 | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN) |  |
-| 11 April 2022 | **Control Flow**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13vLh2Vun8zMrxQkfUpWAB9vUfKRMTrLl?usp=sharing) |  |
-| 16 May 2022 | **Numpy**  |  |  |
+| Session 1A | **Why Learn Python?** | [Intro Presentation](https://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharinghttps://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharing) |  |
+| Session 1B | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7zlCr-mAYtkZbnFBMWySOTNevE71iK9) |  |
+| Session 1C | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN) |  |
+| Session 1D | **Control Flow and Loops**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13vLh2Vun8zMrxQkfUpWAB9vUfKRMTrLl?usp=sharing) |  |
+| 16 May 2022 | **Numpy**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  |
 | | Glossary of python terms | [Link](https://github.com/HelioAnalytics/MOSS_python/blob/master/Course%20Materials/MOSS_Python_glossary.ipynb)||
 
 Future tutorials:  *Data Manipulation with Numpy and Pandas;  Graphs and Visualization; Intro to Machine Learning with Python*
