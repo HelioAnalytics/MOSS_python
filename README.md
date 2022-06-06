@@ -19,7 +19,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 
 | Date | Lecture Topic | Link |  |
 |------|---------------|------------------|----------|
-| 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharinghttps://colab.research.google.com/drive/1ZRyBFO_gsAJGrlPdOFUxUi7pA7a19IpE?usp=sharing) |  |
+| 28 February 2022 | **Why Learn Python?** | [Intro Presentation](https://docs.google.com/presentation/d/1HjcLyVRrXruvjSSO9GyYlMYJaYcp8nxqXWyXVadX9cA/edit?usp=sharing) |  |
 | 28 February 2022 | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7zlCr-mAYtkZbnFBMWySOTNevE71iK9) |  |
 | 28 March 2022 | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN) |  |
 | 11 April 2022 | **Control Flow**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13vLh2Vun8zMrxQkfUpWAB9vUfKRMTrLl?usp=sharing) |  |
